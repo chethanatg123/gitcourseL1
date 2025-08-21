@@ -6,6 +6,6 @@ jobs:
     steps:
       - name: print greeting
         run: echo "Hello Chethan"
-          echo "How are you doing"
+            echo "How are you?"
       - name: Print goodbye
         run: echo "Done- Bye"
